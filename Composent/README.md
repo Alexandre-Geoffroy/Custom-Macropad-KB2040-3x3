@@ -1,5 +1,5 @@
 # Liste des composent que j'ai utiliser pour le projet
-Voici la liste des composents, n'hesiter pas à consulter les plan Gerber et DXF
+Voici la liste des composants que j'ai utilisé pour ce projet, si vous ne savez pas où mettre ni comment utiliser ses composants n'hésiter pas à consulter les plans Gerber et DXF ou les photos du projet.
 
 ## Composent Aliexpress
 ### KB2040
@@ -66,7 +66,8 @@ https://fr.aliexpress.com/item/1005004841425176.html?spm=a2g0o.order_list.order_
 
 
 ## En dehors d'Alliexpress
-Plexiglass 2mm, poncé finemeent sur les coté puis, ajout de polish pour rendere plus jolie<br>
-Deux fils et un conncteur (type led de boitier de pc pour ma part)<br>
+- Plexiglas 2mm : poncé finement sur les côtés puis ajouts de polish pour rendre le tout plus joli.<br>
+- Deux fils et un connecteur (type led boîtier de pc pour ma part), comme vous pouvez le voir sur la photo ci-dessous.<br>
 ![defaut (1)](https://github.com/user-attachments/assets/14dcc8ba-dac4-40eb-8006-0cfbd1750594)
+
 
